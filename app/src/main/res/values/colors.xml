@@ -47,4 +47,7 @@
     <color name="Naranja">#ff8000</color>
     <color name="NaranjaPuro">#f44611</color>
     <color name="NaranjaCaqui">#e25f23</color>
+    <color name="Azuloscuro">#0012F3</color>
+    <color name="VerdeClarito">#00FE0F</color>
+    <color name="Rojo">#FF0000</color>
 </resources>
